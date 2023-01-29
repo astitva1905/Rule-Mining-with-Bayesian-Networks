@@ -11,5 +11,11 @@ This rule makes a lot of sense considering what we know about the real world. It
 Rule mining has a well known algorithm, known as the apriori algorithm. Our project tries to implement a novel theoretical algorithm that uses Bayesian networks created on the exisiting database to make rule predicitons. We use Bayesian confidence and Bayesian lift , calculated using the BayesianNet,  as measures of "goodness" for the rules. 
 This algorithm is studied and taken directly from the paper by Tian et. al. 2013, that can also be found in this repository. This algorithm is implemented on a real world dataset of online transactions in various countries. Our code chooses to study the sales in France as a demonstration, but the same code can be very easily extended to any country/ set of countries. 
 
+## Dataset
+Our dataset is an online retail dataset taken from the Machine learning archives of UC Irvine. It is freely available online. Please access it using the link:
+http://archive.ics.uci.edu/ml/datasets/Online+Retail
+
+The dataset will have to be downloaded and added to your google drive. The code requires it to be accessed through google drive using Google colab.
+
 ## Code
 The working Jupyter notebook file can be found in the repository. It walks through all the steps involved, as well as the final results and observations. 
