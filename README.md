@@ -19,3 +19,5 @@ The dataset will have to be downloaded and added to your google drive. The code 
 
 ## Code
 The working Jupyter notebook file can be found in the repository. It walks through all the steps involved, as well as the final results and observations. 
+
+You can also access the updated working project in this [colab notebook](https://colab.research.google.com/drive/16vFwrPpfbBpGFI93LAmX2mfUhywDL9YH?usp=sharing)
