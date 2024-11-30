@@ -1,3 +1,5 @@
+#Intelligent Product Suggestion using ML
+
 # Rule-Mining-with-Bayesian-Networks
 
 This is a Machine Learning project to derive association rules from an online shopping dataset.
