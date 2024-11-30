@@ -1,6 +1,8 @@
 # Rule-Mining-with-Bayesian-Networks
 
 This is a Machine Learning project to derive association rules from an online shopping dataset.
+Such Association rules can be used to improve customer experience and show better suggested products based on the users' buying history.
+This is an important problem in online marketing and advertising. 
 
 ## Association rules
 In simply terms these are just (statistical) rules that predict something. For example one of the rules that we derived in the project through the online dataset was:
